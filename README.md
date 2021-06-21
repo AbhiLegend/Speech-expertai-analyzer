@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `Project Details`
-** Live-Speech-Analyzer-Expert.AI **
+## Live-Speech-Analyzer-Expert.AI ##
 
 ### Inspiration
 I am working indigenously with Voice and Speech. I thought of implementing a live analysis of how we speak in a meeting, online. As the world is sitting badly at pandemic the only way we connect is online so the way we communicate is important. Hence, thought of a solution that helps to analyze the way you speak.
@@ -19,14 +19,14 @@ I am working indigenously with Voice and Speech. I thought of implementing a liv
 Our application checks on the way you speak in front of the computer and provide live analysis on the way we speak using expert.ai cloud api.
 ### What are the things it uses from Expert.AI
 It uses
-*** NATURAL LANGUAGE API ***
-*** Behaviour traits ***
-*** Sentimental analysis(analyze)  ***
-*** Disambguity ***
-*** FullSentiment(Sentiment score also obtained) ***
-*** PII ***
-*** Writeprint  ***
-*** Relations  ***
+** NATURAL LANGUAGE API **
+** Behaviour traits **
+** Sentimental analysis(analyze)  **
+** Disambguity **
+** FullSentiment(Sentiment score also obtained) **
+** PII **
+** Writeprint  **
+** Relations  **
 
 ### How it works
 The Reactjs app uses web sppech to detect the speech as soon as we hit start button we can speak at Microphone using Speech to Text it converts the words we
@@ -40,7 +40,8 @@ Useful in analysing the way we have communicated
 The way we presented ourselves in Google meet
 Very useful for Customer Call Center support to analyse the sentiments.
 More details of the [project](https://devpost.com/software/live-speech-analyzer-expert-ai)
-##My youtube Channel
+
+## My youtube Channel
 Please subscribe
 [link](https://www.youtube.com/channel/UCD1IBC7l6QNpPNMYjubi0tg)
 
